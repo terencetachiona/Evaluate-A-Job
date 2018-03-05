@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*- 
-# @Author:lthan
-# @Email :xiaohan809@qq.com
-# @Time  :2017/9/6 16:15
+# @Author:ttachiona
+# @Email :terence"ipcconsultants.com
+# @Time  :2018/3/3 17:34
 
 import tensorflow as tf
 
