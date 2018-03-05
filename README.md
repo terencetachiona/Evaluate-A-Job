@@ -1,4 +1,4 @@
-# Position-Salary-Forecast
+# Grade A Job
 CNN Model : Using the job description data to predict the salary that the company should give.
 
 1.Reference Paper "Convolutional Neural Networks for Sentence Classification"
